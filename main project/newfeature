@@ -1,0 +1,36 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="header">
+  <div class="logo"></div>
+  <div class="search">search</div>
+  <div class="links">
+    <ul class="links">
+        <li>home</li>
+        <li>about</li>
+        <li>contact</li>
+        <li>blog</li>
+    </ul>
+    </div>
+  </div>
+  <div class="main">
+  <h1 class="h1"> Content</h1>
+  <p class="p">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt officiis cum sed quae quibusdam cupiditate rerum ullam expedita facere consequuntur quos dolores, nulla aut sunt, nemo harum libero ipsa assumenda animi rem! Consequatur dolores necessitatibus, impedit iste veritatis amet ut. Quae adipisci numquam pariatur saepe, nemo dicta vitae autem reprehenderit sed unde deleniti, velit ipsa veritatis asperiores nesciunt. Ad, ipsam? Explicabo, quibusdam sed cumque officia iure recusandae dignissimos eum molestiae quam ab natus illum, quisquam quia cum autem, et voluptas commodi ex repellat! Alias molestias reiciendis dolorum laudantium pariatur exercitationem enim tempore nulla. Quae exercitationem quis ut dignissimos deserunt sunt?</p>
+  <button class="button">click</button>
+</div>>
+<div class="section">
+<div class="section-img"></div>
+<img src="" alt="">
+<div class="main">
+    <h1 class="h1"> Content</h1>
+    <p class="p">Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt officiis cum sed quae quibusdam cupiditate rerum ullam expedita facere consequuntur quos dolores, nulla aut sunt, nemo harum libero ipsa assumenda animi rem! Consequatur dolores necessitatibus, impedit iste veritatis amet ut. Quae adipisci numquam pariatur saepe, nemo dicta vitae autem reprehenderit sed unde deleniti, velit ipsa veritatis asperiores nesciunt. Ad, ipsam? Explicabo, quibusdam sed cumque officia iure recusandae dignissimos eum molestiae quam ab natus illum, quisquam quia cum autem, et voluptas commodi ex repellat! Alias molestias reiciendis dolorum laudantium pariatur exercitationem enim tempore nulla. Quae exercitationem quis ut dignissimos deserunt sunt?</p>
+    <button class="button">click</button>
+</div>
+</body>
+</html>
