@@ -1,0 +1,216 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+IT+Moderna:wght@100..400&display=swap');
+.main-img{
+    background-image: url("img/food\ img.jpeg");
+    background-repeat:no-repeat ;
+background-size: cover;
+height: 100vh;
+}
+.header{
+    
+   height: 15vh; 
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-style: italic;
+    font-size: larger;
+}
+.logo{
+    font-family: "Playwrite IT Moderna", serif;
+    margin-bottom: 50px;
+    font-size:50px;
+    color:black;
+    display: flex;
+
+}
+.Icons{
+    display: flex;
+    padding: 10px;
+    font-size:50;
+    color:black;
+    align-items: center;
+}
+.link{
+    display: flex;
+    font-size: larger;
+    color:black;
+    margin-left: 200px;
+    margin-top: 50px;
+}
+li{
+    padding: 0px 30px 0px 0px;
+    list-style: none;
+}
+.button{
+background-color: gold;
+border: none;
+padding:10px;
+border-radius:10px;
+}
+.button:hover{
+    color: azure;
+    background-color: cornflowerblue;
+}
+  .link1:hover{
+    color:brown;
+  }
+  .Icons1:hover{
+    color:brown;
+  }
+  .main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 400px;
+    width: 500px;
+    margin-right: 200px;
+  }
+    .link1{
+        margin-top: 50px;
+        align-items:center
+       
+       
+    }
+    .btn{
+        background-color:coral;
+        border-radius: 10px;
+        border: none;
+        padding: 10px;
+    }
+    .btn:hover{
+        color:azure;
+        background-color: cornflowerblue;
+    }
+    .offer1{
+        background-color:cadetblue; 
+        width: 500px;
+        margin-top: 50px;
+        margin-right: 100px;
+        display: flex;
+    }
+    .offer2{
+        background-color:cadetblue;
+        width: 500px;
+        margin-top: 50px;
+        margin-right: 100px;
+        display: flex;
+    }
+    .offers{
+        display: flex;
+        justify-content: center;
+    }
+    .btn1{
+        background-color: cornsilk;
+        border-radius: 20px;
+        border: none;
+        padding: 10px;
+        margin-left: 50px;
+    }
+    .btn2{
+        background-color: cornsilk;
+        border-radius: 20px;
+        border: none;
+        padding: 10px;
+        margin-left: 50px;
+    }
+   .img2{
+    border-radius: 100px;
+    margin-left: 50px;
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+   }
+   .p1{
+    font-size: larger;
+    margin-left: 50px;
+}
+   .img1{
+    border-radius: 100px;
+    margin-left: 50px;
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+   }
+   .h1{
+    margin-top: 30px;
+    margin-left: 50px;
+   }
+   .h2{
+    margin-top: 30px;
+   justify-content:  center;
+   margin-left: 50px;
+   }
+  
+   .p2{
+    margin-top: 20px;
+    margin-left: 50px;
+   }
+   .menu-list{
+    width: 350px;
+    height: 600px;
+    background-color: black;
+    color: azure;
+    
+}
+.menu-img{
+    height:300px;
+    width:350px;
+    border-radius:0px 0px 0px 30px;
+}
+.menu-details{
+    padding: 20px;
+
+}
+.menu-head{
+    margin-bottom: 10px;
+
+}
+.menu-icon{
+    display: flex;
+    justify-content: space-around;
+}
+.main-menu{
+    margin-top: 60px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.menu{
+    width: 30px;
+    height: 30px;
+    background-color:burlywood;
+    align-items:center ;
+    text-align: center;
+    color: black;
+    padding-top:20px;
+}
+.cont{
+    display: flex;
+    height: 600px;
+    width: auto;
+    background-color: black;
+    margin-top: 30px;
+    background-image: url("img/veggy.jpg");
+    background-repeat: no-repeat;
+}
+.cont1{
+color: aliceblue;
+font-size: larger;
+margin-top: 150px;
+margin-left: 500px;
+}
+.img5{
+    height: 600px;
+    width: 200px;
+    margin: 150px 150px 0px 50px;
+    
+}
+.cont-btn{
+    border-radius: 30px;
+    background-color: burlywood;
+    padding: 20px;
+    font-size: larger;
+
+}
+        
+    

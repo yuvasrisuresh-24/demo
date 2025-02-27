@@ -1,0 +1,15 @@
+var a1=document.querySelector("#num") 
+var a2=document.querySelector("#num1")
+var a3=document.querySelector("#num2")
+var a4=document.querySelector("#num3")
+var date=new Date()
+var date1=date.getDate()
+var hr=date.getHours()
+var mins=date.getMinutes()
+var month=date.getMonth()+1
+var sec=date.getSeconds()
+var day=date.getDay()
+a1.innerHTML="Month:"+month
+a2.innerHTML="Day:"+day
+a3.innerHTML="Date:"+date1
+a4.innerHTML= hr+":"+mins+":"+sec
